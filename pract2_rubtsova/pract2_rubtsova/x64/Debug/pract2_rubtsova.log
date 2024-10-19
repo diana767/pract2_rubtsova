@@ -1,0 +1,4 @@
+﻿  pract2_rubtsova.cpp
+C:\Users\st310-05\Desktop\pract2_rubtsova\pract2_rubtsova.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-05\Desktop\pract2_rubtsova\pract2_rubtsova.cpp(16,9): warning C4101: res: неиспользованная локальная переменная
+  pract2_rubtsova.vcxproj -> C:\Users\st310-05\Desktop\pract2_rubtsova\x64\Debug\pract2_rubtsova.exe
